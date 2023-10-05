@@ -9,5 +9,7 @@ in another terminal
 
 `cd whiteboard/server/ui/whiteboard-collab`
 
+`npm install`
+
 `npm run start`
 
