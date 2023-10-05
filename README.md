@@ -7,7 +7,7 @@
 
 in another terminal
 
-`cd whiteboard/server/ui/whiteboard-collab`
+`cd whiteboard/ui/whiteboard-collab`
 
 `npm install`
 
